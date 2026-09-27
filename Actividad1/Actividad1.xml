@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalogo xmlns:xsi="http://campuscamarasevilla.es">
+
+    <metadatosCatalogacion>
+    <institucion>Biblioteca Central de Ciencias y Humanidades</institucion>
+    <codigoSistema>BCCH-CAT-2026</codigoSistema>
+    <versionEschema>2.1</versionEschema>
+    <ultimaActualizacion>2026-09-24T10:00:00Z</ultimaActualizacion>
+    <responsableCatalogacion>Dra. Elena Ramos - Departamento de Documentación</responsableCatalogacion>
+    <normaCatalogacion>RDA / MARC21 XML</normaCatalogacion>
+  </metadatosCatalogacion>
+
+    <libro id="DEV-001"> 
+        <titulo>El Quijote</titulo> 
+        <subtitulo>Segunda parte del ingenioso caballero Don Quijote de la Mancha</subtitulo> 
+        <autor> 
+            <nombre>Miguel de Cervantes Saavedra</nombre> 
+            <especialidad>Literatura española y novela clásica</especialidad> 
+        </autor> 
+        <editorial>Francisco de Robles</editorial> 
+        <fecha_publicacion>1605</fecha_publicacion> 
+        <isbn>978-84-376-0494-7</isbn> 
+        <categoria>Novela</categoria> 
+        <ubicacion_fisica>Estantería A, Nivel 2</ubicacion_fisica> 
+        <estado>Disponible</estado> 
+        <descripcion>Una novela clásica de la literatura española que narra las aventuras del ingenioso hidalgo Don Quijote y su fiel escudero Sancho Panza.</descripcion> 
+    </libro> 
+    <libro id="DEV-002"> 
+        <titulo>El Principito</titulo> 
+        <subtitulo>Una historia sobre la amistad, el amor y la responsabilidad</subtitulo> 
+        <autor> 
+            <nombre>Antoine de Saint-Exupéry</nombre> 
+            <especialidad>Literatura francesa y literatura infantil</especialidad> 
+        </autor> 
+        <editorial>Reynal Hitchcock</editorial> 
+        <fecha_publicacion>1943</fecha_publicacion> 
+        <isbn>978-84-376-0494-8</isbn> 
+        <categoria>Ficción y literatura infantil</categoria> 
+        <ubicacion_fisica>Estantería B, Nivel 1</ubicacion_fisica> 
+        <estado>Prestado</estado> 
+        <descripcion>Un cuento filosófico que aborda temas de amistad, amor y pérdida a través de la historia de un joven príncipe que viaja por diferentes planetas.</descripcion> 
+    </libro> 
+    <libro id="DEV-003"> 
+        <titulo>Cien años de soledad</titulo> 
+        <subtitulo>Historia de la familia Buendía en Macondo</subtitulo> 
+        <autor> 
+            <nombre>Gabriel García Márquez</nombre> 
+            <especialidad>Literatura latinoamericana y realismo mágico</especialidad> 
+        </autor> 
+        <editorial>Editorial Sudamericana</editorial> 
+        <fecha_publicacion>1967</fecha_publicacion> 
+        <isbn>978-84-376-0494-9</isbn> 
+        <categoria>Realismo mágico</categoria> 
+        <ubicacion_fisica>Estantería C, Nivel 3</ubicacion_fisica> 
+        <estado>Disponible</estado> 
+        <descripcion>Una obra del realismo mágico que narra la historia de la familia Buendía a lo largo de varias generaciones en el pueblo ficticio de Macondo.</descripcion> 
+    </libro> 
+    <libro id="DEV-004"> 
+        <titulo>1984</titulo> 
+        <subtitulo>Una sociedad sometida a la vigilancia y al control</subtitulo> 
+        <autor> 
+            <nombre>George Orwell</nombre> 
+            <especialidad>Literatura inglesa y novela distópica</especialidad> 
+        </autor> 
+        <editorial>Secker &amp; Warburg</editorial> 
+        <fecha_publicacion>1949</fecha_publicacion> 
+        <isbn>978-84-376-0494-10</isbn> 
+        <categoria>Distopía</categoria> 
+        <ubicacion_fisica>Estantería D, Nivel 2</ubicacion_fisica> 
+        <estado>Disponible</estado> 
+        <descripcion>Una novela distópica que explora los peligros del totalitarismo y la vigilancia extrema en una sociedad controlada por un gobierno opresivo.</descripcion> 
+    </libro> 
+    
+    <libro id="DEV-005"> 
+        <titulo>Orgullo y prejuicio</titulo> 
+        <subtitulo>Una historia de amor y sociedad en la Inglaterra del siglo XIX</subtitulo> 
+        <autor> 
+            <nombre>Jane Austen</nombre> 
+            <especialidad>Literatura inglesa y novela romántica</especialidad> 
+        </autor> 
+        <editorial>T. Egerton, Whitehall</editorial> 
+        <fecha_publicacion>1813</fecha_publicacion> 
+        <isbn>978-84-376-0494-11</isbn> 
+        <categoria>Romance y literatura clásica</categoria> 
+        <ubicacion_fisica>Estantería E, Nivel 1</ubicacion_fisica> 
+        <estado>Prestado</estado> 
+        <descripcion>Una novela romántica que sigue la vida de Elizabeth Bennet mientras afronta las complejidades del amor, el matrimonio y la sociedad inglesa.</descripcion> 
+    </libro> 
+    
+    <libro id="DEV-006"> 
+        <titulo>La Odisea</titulo> 
+        <subtitulo>El viaje de Odiseo tras la Guerra de Troya</subtitulo> <autor> 
+            <nombre>Homero</nombre> 
+            <especialidad>Literatura clásica griega y poesía épica</especialidad> 
+        </autor> 
+        <editorial>Editorial Gredos</editorial> 
+        <fecha_publicacion>-0800</fecha_publicacion> 
+        <isbn>978-84-376-0494-12</isbn> 
+        <categoria>Épica y literatura clásica</categoria> 
+        <ubicacion_fisica>Estantería F, Nivel 3</ubicacion_fisica> 
+        <estado>Disponible</estado> 
+        <descripcion>Un poema épico griego que narra las aventuras del héroe Odiseo mientras intenta regresar a su hogar después de la Guerra de Troya.</descripcion> 
+    </libro> 
+    
+    <libro id="DEV-007"> 
+        <titulo>Don Juan Tenorio</titulo> 
+        <subtitulo>Drama religioso-fantástico en dos partes</subtitulo> 
+        <autor> 
+            <nombre>José Zorrilla</nombre> 
+            <especialidad>Literatura española y teatro romántico</especialidad> 
+        </autor> 
+        <editorial>Editorial Espasa-Calpe</editorial> 
+        <fecha_publicacion>1844</fecha_publicacion> 
+        <isbn>978-84-376-0494-13</isbn> 
+        <categoria>Teatro romántico</categoria> 
+        <ubicacion_fisica>Estantería G, Nivel 2</ubicacion_fisica> 
+        <estado>Disponible</estado> 
+        <descripcion>Una obra de teatro romántica que cuenta la historia del legendario seductor Don Juan y su enfrentamiento con el honor, el amor y la redención.</descripcion> 
+    </libro> 
+    <libro id="DEV-008"> 
+        <titulo>La Divina Comedia</titulo> 
+        <subtitulo>Viaje de Dante por el Infierno, el Purgatorio y el Paraíso</subtitulo> 
+        <autor> 
+            <nombre>Dante Alighieri</nombre> 
+            <especialidad>Literatura italiana y poesía medieval</especialidad> 
+        </autor> 
+        <editorial>Editorial Planeta</editorial> 
+        <fecha_publicacion>1320</fecha_publicacion> 
+        <isbn>978-84-376-0494-14</isbn> 
+        <categoria>Poesía épica</categoria> 
+        <ubicacion_fisica>Estantería H, Nivel 1</ubicacion_fisica> 
+        <estado>Disponible</estado> 
+        <descripcion>Un poema épico que describe el viaje del poeta a través del Infierno, el Purgatorio y el Paraíso, explorando temas de moralidad, justicia y redención.</descripcion> 
+    </libro> 
+    
+    <libro id="DEV-009"> 
+        <titulo>El retrato de Dorian Gray</titulo> 
+        <subtitulo>La belleza, la juventud y la decadencia moral</subtitulo> 
+        <autor> 
+            <nombre>Oscar Wilde</nombre> 
+            <especialidad>Literatura inglesa y novela gótica</especialidad> 
+        </autor> 
+        <editorial>Lippincott's Monthly Magazine</editorial> 
+        <fecha_publicacion>1890</fecha_publicacion> 
+        <isbn>978-84-376-0494-15</isbn> 
+        <categoria>Ficción gótica</categoria> 
+        <ubicacion_fisica>Estantería I, Nivel 2</ubicacion_fisica> 
+        <estado>Prestado</estado> 
+        <descripcion>Una novela que explora la decadencia moral y la obsesión con la juventud y la belleza a través de la historia de Dorian Gray.</descripcion> 
+    </libro> 
+    <libro id="DEV-010"> 
+        <titulo>Frankenstein</titulo> 
+        <subtitulo>El moderno Prometeo</subtitulo> 
+        <autor> 
+            <nombre>Mary Shelley</nombre> 
+            <especialidad>Literatura inglesa y novela gótica</especialidad> 
+        </autor> 
+        <editorial>Lackington, Hughes, Harding, Mavor and Jones</editorial> 
+        <fecha_publicacion>1818</fecha_publicacion> 
+        <isbn>978-84-376-0494-16</isbn> 
+        <categoria>Ciencia ficción y terror</categoria> 
+        <ubicacion_fisica>Estantería J, Nivel 3</ubicacion_fisica> 
+        <estado>Disponible</estado> 
+        <descripcion>Una novela que narra la historia del científico Victor Frankenstein y su creación de un ser vivo, explorando temas de ética, responsabilidad y naturaleza humana.</descripcion> 
+    </libro>
+    
+    <revista id="REV-001">
+    <titulo>Revista Española de Documentación Científica</titulo>
+    <subtitulo>Investigación y estudios sobre información y documentación</subtitulo> 
+    <autor> 
+        <nombre>Consejo Superior de Investigaciones Científicas</nombre> 
+        <especialidad>Documentación científica y biblioteconomía</especialidad> 
+    </autor> 
+    <editorial>Consejo Superior de Investigaciones Científicas</editorial>
+     <fecha_publicacion>2026</fecha_publicacion>
+    <isbn>978-84-376-0494-17</isbn>
+    <categoria>Revista científica</categoria>
+    <ubicacion_fisica>Estantería K, Nivel 1</ubicacion_fisica>
+    <estado>Disponible</estado>
+    <descripcion>Una revista científica que publica investigaciones y estudios sobre información, documentación y biblioteconomía, dirigida a profesionales y académicos del área.</descripcion>
+    </revista>
+    
+    <revista id="REV-002">
+    <titulo>Journal of Information Science</titulo>
+    <subtitulo>Research and practice in information science</subtitulo>
+    <autor>
+        <nombre>SAGE Publications</nombre>
+        <especialidad>Information science and library studies</especialidad>
+    </autor>
+    <editorial>SAGE Publications</editorial>
+    <fecha_publicacion>2026</fecha_publicacion>
+    <isbn>978-84-376-0494-18</isbn>
+    <categoria>Scientific journal</categoria>
+    <ubicacion_fisica>Estantería L, Nivel 2</ubicacion_fisica>
+    <estado>Available</estado>
+    <descripcion>A peer-reviewed journal that publishes research and practice in the field of information science, covering topics such as information retrieval, knowledge management, and digital libraries.</descripcion>
+
+
+</revista>
+</catalogo>
